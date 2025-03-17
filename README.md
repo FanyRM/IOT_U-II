@@ -18,16 +18,16 @@
 | Aspecto             | Comentario                                                                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Positivo**        | En una persona que siempre está dispuesta a ayudar, está en completa disposición de siempre ofrecerse para ayudar cuando el trabajo en equipo lo requiera. Es amable y cooperativo incluso en las compras de material. |
-| **Negativo**        | Requiere practicar un poco más su programación.                                                                                                                 |
-| **A mejorar**       | Puede mejorar su comunicación, y sus habilidades técnicas.                                                                                                     |
+| **Negativo**        | Requiere practicar un poco más su programación.                                                                                                     |
+| **A mejorar**       | Puede mejorar su comunicación, y sus habilidades técnicas.                                                                                          |
 
 #### Celeste Estefanía Ramírez Matehuala
 
 | Aspecto             | Comentario                                                                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Positivo**        | Es una persona muy disciplinada y cumplida, tiene un enfoque directo y es difícil distraerla de sus objetivos, por lo cual resulta una compañera perfecta para realizar el trabajo en equipo. Aporta información e imparte su conocimiento para la constante mejora del equipo, es amable y paciente. |
-| **Negativo**        | Suele estresarse por ciertas cuestiones y en esos casos se bloquea en la búsqueda de una solución temporal.                                                     |
-| **A mejorar**       | Se puede mejorar la comunicación.                                                                                                                             |
+| **Negativo**        | Suele estresarse por ciertas cuestiones y en esos casos se bloquea en la búsqueda de una solución temporal.                                        |
+| **A mejorar**       | Se puede mejorar la comunicación.                                                                                                                  |
 
 ---
 
