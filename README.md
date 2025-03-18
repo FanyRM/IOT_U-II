@@ -66,9 +66,7 @@
 ## Videos
 
 | Sensor/Actuador | Diagrama de conexión | Código |
-|------------------------------------|--------|
-| ** **|  |  |
-| ** **|  |  |
+|------------------------------------|--------|--------|
 | ** KY-001 Sensor de Temperatura **|  |  |
 | ** KY-002 Sensor de Vibración **|  |  |
 | ** KY-003 Sensor de Efecto Hall **|  |  |
