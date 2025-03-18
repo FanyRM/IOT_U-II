@@ -1,0 +1,177 @@
+[
+    {
+        "id": "e084776022dcfd85",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "b8f8396fab1d3df2",
+        "type": "mqtt in",
+        "z": "e084776022dcfd85",
+        "name": "",
+        "topic": "cerm/actuador/ky001",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "95701e38a360a590",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 860,
+        "y": 520,
+        "wires": [
+            [
+                "a78f35ef84048e25"
+            ]
+        ]
+    },
+    {
+        "id": "43ff135d43eb3525",
+        "type": "debug",
+        "z": "e084776022dcfd85",
+        "name": "debug 1",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1360,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "a78f35ef84048e25",
+        "type": "postgresql",
+        "z": "e084776022dcfd85",
+        "name": "",
+        "query": "SELECT * FROM ;",
+        "postgreSQLConfig": "b8d3bcb482c22b7e",
+        "split": true,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1090,
+        "y": 520,
+        "wires": [
+            [
+                "43ff135d43eb3525",
+                "b5c7c29f13f8f366"
+            ]
+        ]
+    },
+    {
+        "id": "b5c7c29f13f8f366",
+        "type": "postgresql",
+        "z": "e084776022dcfd85",
+        "name": "",
+        "query": "SELECT * FROM ;",
+        "postgreSQLConfig": "b8d3bcb482c22b7e",
+        "split": false,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 1090,
+        "y": 600,
+        "wires": [
+            [
+                "f9abd7d82e81279d"
+            ]
+        ]
+    },
+    {
+        "id": "f9abd7d82e81279d",
+        "type": "ui_table",
+        "z": "e084776022dcfd85",
+        "group": "79f198238c9385ed",
+        "name": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "columns": [],
+        "outputs": 0,
+        "cts": false,
+        "x": 1350,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "95701e38a360a590",
+        "type": "mqtt-broker",
+        "name": "cerm/casa/distancia",
+        "broker": "192.168.137.191",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "b8d3bcb482c22b7e",
+        "type": "postgreSQLConfig",
+        "name": "",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": 5432,
+        "portFieldType": "num",
+        "database": "aiot",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "applicationName": "",
+        "applicationNameType": "str",
+        "max": 10,
+        "maxFieldType": "num",
+        "idle": 1000,
+        "idleFieldType": "num",
+        "connectionTimeout": 10000,
+        "connectionTimeoutFieldType": "num",
+        "user": "utng",
+        "userFieldType": "str",
+        "password": "1234",
+        "passwordFieldType": "str"
+    },
+    {
+        "id": "79f198238c9385ed",
+        "type": "ui_group",
+        "name": "Listar Detalles Sensor",
+        "tab": "2342311bdba7d936",
+        "order": 2,
+        "disp": true,
+        "width": 16,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2342311bdba7d936",
+        "type": "ui_tab",
+        "name": "BaseDatos",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]
