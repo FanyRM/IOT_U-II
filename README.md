@@ -121,7 +121,7 @@
 | Alumno                          | Videos | Código | Diágrama Conexión | Foto |
 |----------------------------------|--------|--------|-------------------|------|
 | **Gerardo Manzano Villafaña**   |        |        |                   |      |
-| **Celeste Estefanía Ramírez Matehuala** | [Ver video](https://drive.google.com/file/d/14V_yAQJsH8d-9VMEu-dvSb-bbpul1uD-/view?usp=drive_link) | [Código en GitHub](https://github.com/FanyRM/IOT_U-II/blob/main/Leds-JSON_Code/LEDS_Celeste.py) | ![Diagrama de conexión](https://github.com/user-attachments/assets/0d40c8c7-e6ab-4d0e-943c-192e17c2ac77) |  |
+| **Celeste Estefanía Ramírez Matehuala** | [Ver video](https://drive.google.com/file/d/14V_yAQJsH8d-9VMEu-dvSb-bbpul1uD-/view?usp=drive_link) | [Código en GitHub](https://github.com/FanyRM/IOT_U-II/blob/main/Leds-JSON_Code/LEDS_Celeste.py) | ![Diagrama de conexión](https://github.com/user-attachments/assets/0d40c8c7-e6ab-4d0e-943c-192e17c2ac77) | ![Imagen de WhatsApp 2025-03-18 a las 01 35 36_5a152c4e](https://github.com/user-attachments/assets/fcf151d1-d569-4113-ae60-f40a6dc9c07b)|
 
 
 
