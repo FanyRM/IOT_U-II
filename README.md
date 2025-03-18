@@ -95,16 +95,16 @@
 | **KY-027 Módulo Luminoso de Inclinación**| ![image](https://github.com/user-attachments/assets/3d6f8924-178e-48ac-988f-bba50051e0d4)| [KY-027](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-027.py) |
 | **KY-028 Sensor de Temperatura Digital**| ![image](https://github.com/user-attachments/assets/a6b41d2f-47e0-4fd4-aabf-49644101bd4a)| [KY-028](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-028.py) |
 | **KY-029 Módulo LED 2 Colores**| ![image](https://github.com/user-attachments/assets/698a46ef-7d20-4b21-aa4f-9532e047305c)| [KY-029](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-029.py) |
-| **KY-031 Sensor de Impacto**|  | [KY-031](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-031.py) |
-| **KY-032 Sensor de Obstáculos**|  | [KY-032](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-032.py) |
-| **KY-033 Sensor de Línea**|  | [KY-033](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-033.py) |
-| **KY-034 Módulo LED 7 Colores**|  | [KY-034](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-034.py) |
-| **KY-035 Sensor de Efecto Hall Analógico**|  | [KY-035](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-035.py) |
-| **KY-036 Sensor Táctil de Metal**|  | [KY-036](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-036.py) |
-| **KY-037 Módulo Micrófono Sensible**|  | [KY-037](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-037.py) |
-| **KY-038 Sensor de Sonido con Micrófono**|  | [KY-038](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-038.py) |
-| **KY-039 Sensor de Pulso**|  | [KY-039](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-039.py) |
-| **KY-040 Módulo Encoder**|  | [KY-040](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-040.py) |
+| **KY-031 Sensor de Impacto**| ![image](https://github.com/user-attachments/assets/2ed2456e-aab5-4f85-af0e-0ee5ed24cf92)| [KY-031](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-031.py) |
+| **KY-032 Sensor de Obstáculos**| ![image](https://github.com/user-attachments/assets/c0a6733a-90a3-4f91-93f4-d678ac48e482)| [KY-032](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-032.py) |
+| **KY-033 Sensor de Línea**| ![image](https://github.com/user-attachments/assets/81cd12ba-ce70-4706-bb7f-68611e8942a0)| [KY-033](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-033.py) |
+| **KY-034 Módulo LED 7 Colores**| ![image](https://github.com/user-attachments/assets/0ab0470e-ffc0-4dd8-b796-10c93fe4c3e5)| [KY-034](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-034.py) |
+| **KY-035 Sensor de Efecto Hall Analógico**| ![image](https://github.com/user-attachments/assets/86230cf7-1390-4bdc-a08b-8da5e677f147)| [KY-035](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-035.py) |
+| **KY-036 Sensor Táctil de Metal**| ![image](https://github.com/user-attachments/assets/2739ecba-c5a8-4d7d-8ddf-8c10a1ebe83e)| [KY-036](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-036.py) |
+| **KY-037 Módulo Micrófono Sensible**| ![image](https://github.com/user-attachments/assets/0d30b314-64ef-49b1-a16e-16539bac05fd)| [KY-037](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-037.py) |
+| **KY-038 Sensor de Sonido con Micrófono**| ![image](https://github.com/user-attachments/assets/de63a4ca-d6f8-487f-8111-c6f58f018db3)| [KY-038](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-038.py) |
+| **KY-039 Sensor de Pulso**| ![image](https://github.com/user-attachments/assets/4178b585-9505-492e-8871-77ed22baf6ac)| [KY-039](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-039.py) |
+| **KY-040 Módulo Encoder**| ![image](https://github.com/user-attachments/assets/e151d771-31de-4b28-a9b0-5946df60f5eb)| [KY-040](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-040.py) |
 
 ### Datos
 | Categoría | Información |
