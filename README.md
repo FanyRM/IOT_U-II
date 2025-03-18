@@ -69,7 +69,7 @@
 
 | Sensor/Actuador | Diagrama de conexión | Código |
 |------------------------------------|--------|--------|
-| **KY-001 Sensor de Temperatura**|  |  |
+| **KY-001 Sensor de Temperatura**| ![image](https://github.com/user-attachments/assets/511b32e5-3887-40b1-957d-3776c4f84e83)|  |
 | **KY-002 Sensor de Vibración**|  |  |
 | **KY-003 Sensor de Efecto Hall**|  |  |
 | **KY-004 Módulo Push Botón**|  |  |
