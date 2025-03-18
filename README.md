@@ -1,4 +1,7 @@
-# Anexo de Instrumento de Evaluación
+![sketch-1742284710634](https://github.com/user-attachments/assets/972ca9de-c9ea-49f3-8e46-c5d5ee119bdd)
+![sketch-1742284216881](https://github.com/user-attachments/assets/d89cfb6f-bccc-457d-9c45-467bbb633261)
+
+# Información estudiantes y cooevaluaciones
 
 ## Información de Integrantes
 
@@ -7,7 +10,6 @@
 | Número de control                    | 1222100474                   | 1223100435                          |
 | Grupo                                 | GDS0652                      | GDS0652                              |
 
----
 
 ## Parte Socioafectiva
 
@@ -42,7 +44,7 @@
 | **Asistencia**                      | 0.5            |
 | **Total**                           | **10 puntos**  |
 
----
+![sketch-1742284216881](https://github.com/user-attachments/assets/cdc90bef-f17a-427a-adac-4304b3c4390f)
 
 # Parte Teórica
 
@@ -60,7 +62,8 @@
 | **Gerardo Manzano Villafaña**|  |
 | **Celeste Estefanía Ramírez Matehuala**| ![image](https://github.com/user-attachments/assets/3d6804e3-be9c-41c7-8ee5-8197e8518d85)|
 
----
+![sketch-1742284216881](https://github.com/user-attachments/assets/dec314a5-5d85-4752-ba33-60643e3c48d3)
+
 # Parte Práctica
 
 ## Registros de datos en sensores y actuadores
