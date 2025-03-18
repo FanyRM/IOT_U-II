@@ -70,8 +70,7 @@
 | Sensor/Actuador | Diagrama de conexión | Código |
 |------------------------------------|--------|--------|
 | **KY-001 Sensor de Temperatura**| ![image](https://github.com/user-attachments/assets/511b32e5-3887-40b1-957d-3776c4f84e83)| [KY-001](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-001.py) |
-| **KY-002 Sensor de Vibración**| ![image](https://github.com/user-attachments/assets/41dbb7fe-9a47-4cda-98f4-6ccca0b7dc23)
- | [KY-002](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-002.py) |
+| **KY-002 Sensor de Vibración**| ![image](https://github.com/user-attachments/assets/41dbb7fe-9a47-4cda-98f4-6ccca0b7dc23)| [KY-002](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-002.py) |
 | **KY-003 Sensor de Efecto Hall**|  | [KY-003](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-003.py) |
 | **KY-004 Módulo Push Botón**|  | [KY-004](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-004.py) |
 | **KY-005 Sensor Infrarrojo**|  | [KY-005](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-005.py) |
