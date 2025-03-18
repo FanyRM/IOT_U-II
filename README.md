@@ -86,15 +86,15 @@
 | **KY-018 Módulo de Fotorresistencia**| ![image](https://github.com/user-attachments/assets/fdd2150e-ecf8-464b-a10f-704df305d0cd)| [KY-018](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-018.py) |
 | **KY-019 Módulo de 1 Relevador**| ![image](https://github.com/user-attachments/assets/fded403d-8303-46db-8600-01581029b14e)| [KY-019](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-019.py) |
 | **KY-020 Sensor de Inclinación**| ![image](https://github.com/user-attachments/assets/5fe331fe-c4d1-4727-8d40-2e6665ebb3c6)| [KY-020](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-020.py) |
-| **KY-021 Módulo Mini Interruptor Magnético**|  | [KY-021](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-021.py) |
-| **KY-022 Módulo LED Infrarrojo Receptor**|  | [KY-022](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-022.py) |
-| **KY-023 Módulo Joystick**|  | [KY-023](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-023.py) |
-| **KY-024 Sensor de Campo Magnético**|  | [KY-024](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-024.py) |
-| **KY-025 Módulo Reed Switch**|  | [KY-025](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-025.py) |
-| **KY-026 Sensor de Flama**|  | [KY-026](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-026.py) |
-| **KY-027 Módulo Luminoso de Inclinación**|  | [KY-027](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-027.py) |
-| **KY-028 Sensor de Temperatura Digital**|  | [KY-028](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-028.py) |
-| **KY-029 Módulo LED 2 Colores**|  | [KY-029](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-029.py) |
+| **KY-021 Módulo Mini Interruptor Magnético**| ![image](https://github.com/user-attachments/assets/31cb9dc9-3092-43d9-96a4-5f3f6461130a)| [KY-021](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-021.py) |
+| **KY-022 Módulo LED Infrarrojo Receptor**| ![image](https://github.com/user-attachments/assets/bc373be9-01b8-47e5-a5d6-75b7c9f10cd3)| [KY-022](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-022.py) |
+| **KY-023 Módulo Joystick**| ![image](https://github.com/user-attachments/assets/bcd92518-9a5d-4aa3-9fed-281ab4d59fb7)| [KY-023](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-023.py) |
+| **KY-024 Sensor de Campo Magnético**| ![image](https://github.com/user-attachments/assets/5ddf1304-bc96-4330-a564-57a47e8b89b7)| [KY-024](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-024.py) |
+| **KY-025 Módulo Reed Switch**| ![image](https://github.com/user-attachments/assets/5fed810b-2d21-44e4-9729-40d999384fb9)| [KY-025](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-025.py) |
+| **KY-026 Sensor de Flama**| ![image](https://github.com/user-attachments/assets/c5dde19c-06f6-42eb-a539-2fbbb7bb092f)| [KY-026](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-026.py) |
+| **KY-027 Módulo Luminoso de Inclinación**| ![image](https://github.com/user-attachments/assets/3d6f8924-178e-48ac-988f-bba50051e0d4)| [KY-027](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-027.py) |
+| **KY-028 Sensor de Temperatura Digital**| ![image](https://github.com/user-attachments/assets/a6b41d2f-47e0-4fd4-aabf-49644101bd4a)| [KY-028](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-028.py) |
+| **KY-029 Módulo LED 2 Colores**| ![image](https://github.com/user-attachments/assets/698a46ef-7d20-4b21-aa4f-9532e047305c)| [KY-029](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-029.py) |
 | **KY-031 Sensor de Impacto**|  | [KY-031](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-031.py) |
 | **KY-032 Sensor de Obstáculos**|  | [KY-032](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-032.py) |
 | **KY-033 Sensor de Línea**|  | [KY-033](https://github.com/FanyRM/IOT_U-II/blob/main/Sensors-Actuator_Code/KY-033.py) |
