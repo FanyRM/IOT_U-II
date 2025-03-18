@@ -119,9 +119,10 @@
 ## Ejercicio de Soldadura
 
 | Alumno                          | Videos | Código | Diágrama Conexión | Foto |
-|------------------------------------|--------|--------|--------|--------|
-| **Gerardo Manzano Villafaña**| | | | |
-| **Celeste Estefanía Ramírez Matehuala**| https://drive.google.com/file/d/14V_yAQJsH8d-9VMEu-dvSb-bbpul1uD-/view?usp=drive_link | https://github.com/FanyRM/IOT_U-II/blob/main/Leds-JSON_Code/LEDS_Celeste.py | ![image](https://github.com/user-attachments/assets/0d40c8c7-e6ab-4d0e-943c-192e17c2ac77) | ![Imagen de WhatsApp 2025-03-17 a las 20 20 29_0f3a4e8c](https://github.com/user-attachments/assets/eec97f65-09c1-4d82-a57c-ae26ef20cc99) ![Imagen de WhatsApp 2025-03-17 a las 20 20 42_ab072256](https://github.com/user-attachments/assets/66d4a211-1779-4556-bf4b-19d25f54f9a3) |
+|----------------------------------|--------|--------|-------------------|------|
+| **Gerardo Manzano Villafaña**   |        |        |                   |      |
+| **Celeste Estefanía Ramírez Matehuala** | [Ver video](https://drive.google.com/file/d/14V_yAQJsH8d-9VMEu-dvSb-bbpul1uD-/view?usp=drive_link) | [Código en GitHub](https://github.com/FanyRM/IOT_U-II/blob/main/Leds-JSON_Code/LEDS_Celeste.py) | ![Diagrama de conexión](https://github.com/user-attachments/assets/0d40c8c7-e6ab-4d0e-943c-192e17c2ac77) |  |
+
 
 
 
