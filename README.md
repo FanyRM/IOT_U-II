@@ -59,7 +59,7 @@
 
 | Alumno                          | Calificaciones |
 |------------------------------------|--------|
-| **Gerardo Manzano Villafaña**|  |
+| **Gerardo Manzano Villafaña**| ![Imagen de WhatsApp 2025-03-21 a las 11 52 53_c1b65e7c](https://github.com/user-attachments/assets/2d307bbe-19c4-44b0-8bcd-06907acd79ab)|
 | **Celeste Estefanía Ramírez Matehuala**| ![image](https://github.com/user-attachments/assets/3d6804e3-be9c-41c7-8ee5-8197e8518d85)|
 
 ![sketch-1742284216881](https://github.com/user-attachments/assets/dec314a5-5d85-4752-ba33-60643e3c48d3)
